@@ -1,0 +1,20 @@
+﻿<h3>DnnSink</h3>
+<p class="Contributor">
+	DotNetNuke Corporation <br />
+	<a href="mailto:training@dotnetnuke.com">training@dotnetnuke.com</a><br />
+	<a href=http://www.dotnetnuke.com>http://www.dotnetnuke.com</a><br />
+</p>
+<hr/>
+<div class="License">
+	<h3>About the DnnSink</h3>
+	<p class="Owner">
+		<b>Version 00.00.01</b><br /><br />
+	</p>
+	<p>Description about version.</p>
+	
+	<h4>Bug Fixes</h4>
+	<ul>
+			<li>Initial release</li>
+	</ul>
+	
+</div>

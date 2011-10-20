@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{00000000-0000-0000-0000-000000000000}") = "DnnSink", "DnnSink.csproj", "{12E81DF9-DA65-44BF-9DF3-E0F492E482A7}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs03
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DnnSink.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E81DF9-DA65-44BF-9DF3-E0F492E482A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E81DF9-DA65-44BF-9DF3-E0F492E482A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E81DF9-DA65-44BF-9DF3-E0F492E482A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E81DF9-DA65-44BF-9DF3-E0F492E482A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
