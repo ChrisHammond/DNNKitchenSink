@@ -18,6 +18,28 @@ namespace DotNetNuke.Modules.DnnSink
         //with this base class you can provide any custom properties and methods that all your controls can access here, you can also access all the DNN 
         // methods and properties available off of portalmodulebase such as TabId, UserId, UserInfo, etc.
 
+        public string FolderName
+        {
+            get
+            {
+                var qs = Request.QueryString["fn"];
+                if (qs != null)
+                    return qs.ToString();
+                return string.Empty;
+            }
+        }
+
+        public string ControlName
+        {
+            get
+            {
+                var qs = Request.QueryString["cn"];
+                if (qs != null)
+                    return qs.ToString();
+                return string.Empty;
+            }
+        }
+
 
     }
 

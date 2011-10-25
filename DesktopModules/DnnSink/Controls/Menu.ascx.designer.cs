@@ -7,27 +7,27 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DotNetNuke.Modules.DnnSink.Controls.Pages {
+namespace DotNetNuke.Modules.DnnSink.Controls {
     
     
-    public partial class ListOfPages {
+    public partial class Menu {
         
         /// <summary>
-        /// txtCode control.
+        /// lblPages control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtCode;
+        protected global::DotNetNuke.UI.UserControls.LabelControl lblPages;
         
         /// <summary>
-        /// txtListOfPages control.
+        /// lblUsers control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtListOfPages;
+        protected global::DotNetNuke.UI.UserControls.LabelControl lblUsers;
     }
 }

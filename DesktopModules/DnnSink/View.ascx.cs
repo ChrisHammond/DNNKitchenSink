@@ -54,7 +54,16 @@ namespace DotNetNuke.Modules.DnnSink
             try
             {
 
-                
+                var controlToLoad = "Controls/Menu.ascx";
+                if (FolderName != string.Empty && ControlName != string.Empty)                
+                {
+                    controlToLoad = String.Format("Controls/{0}/{1}.ascx",FolderName,ControlName);
+                }
+
+                var mbl = (DnnSinkModuleBase)LoadControl(controlToLoad);
+                mbl.ModuleConfiguration = ModuleConfiguration;
+                mbl.ID = System.IO.Path.GetFileNameWithoutExtension(controlToLoad);
+                phViewControl.Controls.Add(mbl);
 
             }
             catch (Exception exc) //Module failed to load

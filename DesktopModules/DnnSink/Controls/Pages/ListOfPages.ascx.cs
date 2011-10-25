@@ -9,7 +9,7 @@ using DotNetNuke.Entities.Modules;
 
 namespace DotNetNuke.Modules.DnnSink.Controls.Pages
 {
-    public partial class ListOfPages : PortalModuleBase
+    public partial class ListOfPages : DnnSinkModuleBase
     {
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -24,7 +24,7 @@ namespace DotNetNuke.Modules.DnnSink.Controls.Pages
                 if (t.IsVisible)
                 {
                     txtListOfPages.Text += t.TabName;
-                    txtListOfPages.Text += "/n";
+                    txtListOfPages.Text += Environment.NewLine;
                 }
             }
                 
