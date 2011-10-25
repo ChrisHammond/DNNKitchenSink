@@ -19,7 +19,7 @@ namespace DotNetNuke.Modules.DnnSink.Controls {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DotNetNuke.UI.UserControls.LabelControl lblPages;
+        protected global::System.Web.UI.UserControl lblPages;
         
         /// <summary>
         /// lblUsers control.
@@ -28,6 +28,6 @@ namespace DotNetNuke.Modules.DnnSink.Controls {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DotNetNuke.UI.UserControls.LabelControl lblUsers;
+        protected global::System.Web.UI.UserControl lblUsers;
     }
 }

@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DeleteUser.Text" xml:space="preserve">
+    <value>Delete User</value>
+  </data>
   <data name="lblPages.Help" xml:space="preserve">
     <value>Listing of methods around Pages (tabs)</value>
   </data>
@@ -128,5 +131,8 @@
   </data>
   <data name="lblUsers.Text" xml:space="preserve">
     <value>Users</value>
+  </data>
+  <data name="ListOfPages.Text" xml:space="preserve">
+    <value>List of Pages</value>
   </data>
 </root>
