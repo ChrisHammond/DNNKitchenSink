@@ -5,10 +5,10 @@
       <description>A module that does all things DotNetNuke. Strictly for development example purposes, not for use in a production website.</description>
       <iconFile>Images/icon_extensions.gif</iconFile>
       <owner>
-        <name>DotNetNuke Corporation</name>
-        <organization>DotNetNuke Corporation</organization>
-        <url>http://www.dotnetnuke.com</url>
-        <email>training@dotnetnuke.com</email>
+        <name>Christoc.com</name>
+        <organization>Christoc.com</organization>
+        <url>http://www.christoc.com</url>
+        <email>modules@christoc.com</email>
       </owner>
       <license src="License.txt"></license>
       <releaseNotes src="ReleaseNotes.txt"></releaseNotes>
@@ -46,7 +46,7 @@
           <desktopModule>
             <moduleName>DnnSink</moduleName>
             <foldername>DnnSink</foldername>
-            <businessControllerClass>DotNetNuke.Modules.DnnSink.Components.FeatureController</businessControllerClass>
+            <businessControllerClass>Christoc.Modules.DnnSink.Components.FeatureController</businessControllerClass>
             <supportedFeatures />
             <moduleDefinitions>
               <moduleDefinition>

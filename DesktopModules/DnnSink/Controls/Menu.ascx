@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Menu.ascx.cs" Inherits="DotNetNuke.Modules.DnnSink.Controls.Menu" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Menu.ascx.cs" Inherits="Christoc.Modules.DnnSink.Controls.Menu" %>
 <%@ Register TagPrefix="dnn" TagName="label" Src="~/controls/LabelControl.ascx" %>
 
 <ol>

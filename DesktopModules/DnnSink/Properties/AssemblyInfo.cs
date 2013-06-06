@@ -1,5 +1,5 @@
 /*
-' Copyright (c) 2011 DotNetNuke Corporation
+' Copyright (c) 2011 Christoc.com
 '  All rights reserved.
 ' 
 ' THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
@@ -19,12 +19,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 //
-[assembly: AssemblyTitle("DotNetNuke CorporationDnnSink")]
-[assembly: AssemblyDescription("A DotNetNuke Module from DotNetNuke Corporation Software")]
+[assembly: AssemblyTitle("Christoc.comDnnSink")]
+[assembly: AssemblyDescription("A DotNetNuke Module from Christoc.com Software")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("")]
-[assembly: AssemblyCopyright("2011 DotNetNuke Corporation")]
+[assembly: AssemblyCopyright("2011 Christoc.com")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]

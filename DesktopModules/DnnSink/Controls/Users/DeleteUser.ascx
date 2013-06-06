@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="DeleteUser.ascx.cs" Inherits="DotNetNuke.Modules.DnnSink.Controls.Users.DeleteUser" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="DeleteUser.ascx.cs" Inherits="Christoc.Modules.DnnSink.Controls.Users.DeleteUser" %>
 
 <asp:TextBox id="deleteUser" TextMode="MultiLine" runat="server" CssClass="CodeExample">
 var user = UserController.GetUserById(PortalId, userId);

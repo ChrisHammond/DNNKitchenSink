@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DotNetNuke.Modules.DnnSink {
+namespace Christoc.Modules.DnnSink {
     
     
     public partial class View {

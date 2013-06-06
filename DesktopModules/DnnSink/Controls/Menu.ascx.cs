@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace DotNetNuke.Modules.DnnSink.Controls
+namespace Christoc.Modules.DnnSink.Controls
 {
     public partial class Menu : DnnSinkModuleBase
     {

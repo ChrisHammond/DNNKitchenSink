@@ -1,5 +1,5 @@
 /*
-' Copyright (c) 2011  DotNetNuke Corporation
+' Copyright (c) 2011  Christoc.com
 '  All rights reserved.
 ' 
 ' THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
@@ -19,7 +19,7 @@ using DotNetNuke.Security;
 using DotNetNuke.Entities.Tabs;
 
 
-namespace DotNetNuke.Modules.DnnSink
+namespace Christoc.Modules.DnnSink
 {
 
     /// -----------------------------------------------------------------------------

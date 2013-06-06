@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 using DotNetNuke.Entities.Tabs;
 using DotNetNuke.Entities.Modules;
 
-namespace DotNetNuke.Modules.DnnSink.Controls.Pages
+namespace Christoc.Modules.DnnSink.Controls.Pages
 {
     public partial class ListOfPages : DnnSinkModuleBase
     {

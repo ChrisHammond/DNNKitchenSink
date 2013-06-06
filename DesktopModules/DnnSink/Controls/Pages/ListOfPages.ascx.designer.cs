@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DotNetNuke.Modules.DnnSink.Controls.Pages {
+namespace Christoc.Modules.DnnSink.Controls.Pages {
     
     
     public partial class ListOfPages {

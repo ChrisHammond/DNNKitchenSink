@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DotNetNuke.Modules.DnnSink.Controls {
+namespace Christoc.Modules.DnnSink.Controls {
     
     
     public partial class Menu {

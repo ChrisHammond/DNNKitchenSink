@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ListOfPages.ascx.cs" Inherits="DotNetNuke.Modules.DnnSink.Controls.Pages.ListOfPages" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ListOfPages.ascx.cs" Inherits="Christoc.Modules.DnnSink.Controls.Pages.ListOfPages" %>
 <%@ Register TagPrefix="dnn" TagName="label" Src="~/controls/LabelControl.ascx" %>
 
 

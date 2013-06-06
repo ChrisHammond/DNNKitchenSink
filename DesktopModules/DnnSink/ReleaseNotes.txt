@@ -1,8 +1,8 @@
 ﻿<h3>DnnSink</h3>
 <p class="Contributor">
-	DotNetNuke Corporation <br />
-	<a href="mailto:training@dotnetnuke.com">training@dotnetnuke.com</a><br />
-	<a href=http://www.dotnetnuke.com>http://www.dotnetnuke.com</a><br />
+	Christoc.com <br />
+	<a href="mailto:modules@christoc.com">modules@christoc.com</a><br />
+	<a href=http://www.christoc.com>http://www.christoc.com</a><br />
 </p>
 <hr/>
 <div class="License">

@@ -1,1 +1,1 @@
-<%@ Control language="C#" Inherits="DotNetNuke.Modules.DnnSink.Edit" AutoEventWireup="false"  Codebehind="Edit.ascx.cs" %>
+<%@ Control language="C#" Inherits="Christoc.Modules.DnnSink.Edit" AutoEventWireup="false"  Codebehind="Edit.ascx.cs" %>

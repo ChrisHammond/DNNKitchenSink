@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DotNetNuke.Modules.DnnSink.Controls.Users {
+namespace Christoc.Modules.DnnSink.Controls.Users {
     
     
     public partial class DeleteUser {

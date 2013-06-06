@@ -6,7 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using DotNetNuke.Entities.Users;
 
-namespace DotNetNuke.Modules.DnnSink.Controls.Users
+namespace Christoc.Modules.DnnSink.Controls.Users
 {
     public partial class DeleteUser : DnnSinkModuleBase
     {
